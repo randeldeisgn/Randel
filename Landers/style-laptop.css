@@ -1,0 +1,25 @@
+@media(max-width: 1200px) and (min-width: 780px){
+    .banner{
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+
+    .banner-img{
+        width: 450px;
+        height: 450px;
+    }
+
+    .main{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .boy-img{
+        height: 350px;
+        width: 350px;
+    }
+
+    .boy-info h1{
+        font-size: 2.1em;
+    }
+}
