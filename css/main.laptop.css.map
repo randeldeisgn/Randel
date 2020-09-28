@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,MAAM,EAAC,SAAS,EAAE,MAAM,OAAO,SAAS,EAAE,KAAK;EAC3C,AAGQ,QAHA,CACJ,gBAAgB,CAEZ,gBAAgB,CAAA;IACZ,OAAO,EAAE,IAAI;GAKhB;EATT,AAKY,QALJ,CACJ,gBAAgB,CAEZ,gBAAgB,CAEZ,EAAE,CAAA;IACE,MAAM,EAAE,IAAI;IACZ,aAAa,EAAE,IAAI;GACtB",
+    "sources": [
+        "main.laptop.scss"
+    ],
+    "names": [],
+    "file": "main.laptop.css"
+}
